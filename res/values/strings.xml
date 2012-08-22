@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyActivityGroupSample</string>
+    
+    <string name="parent_button_1">show child1 activity</string>
+    <string name="parent_button_2">show child2 activity</string>
+    
+    <string name="child1_text">This is child1 activity</string>
+    <string name="child2_text">This is child2 activiy</string>
+
+</resources>
